@@ -43,7 +43,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GoduguVeena&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -51,15 +51,14 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GoduguVeena&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoduguVeena&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=yourusername&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=GoduguVeena&theme=tokyonight" />
 </p>
 
----
 
 ## 🚀 Currently Working On
 
